@@ -18,7 +18,7 @@ executing==0.8.3
 fastjsonschema==2.15.3
 filelock==3.7.0
 fonttools==4.33.3
-hdbscan==0.8.28
+hdbscan==0.8.29
 huggingface-hub==0.6.0
 idna==3.3
 ipykernel==6.13.0
